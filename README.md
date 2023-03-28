@@ -15,4 +15,9 @@ Here is my replit link : https://replit.com/@mrabelantony/GAME-1
 
 #ScreenShots
 
+![Capture1](/ScreenShots/1.png)
+![Capture1](/ScreenShots/2.png)
+![Capture1](/ScreenShots/3.png)
+![Capture1](/ScreenShots/4.png)
+
 
