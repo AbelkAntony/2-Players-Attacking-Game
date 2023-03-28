@@ -9,3 +9,10 @@ Type-A -> High Health, Low Damage, Low Healing
 Type B -> Avg Health, Avg Damage, Avg Healing
 Type C -> Low Health, High Damage, Avg Healing
 Every player will have health , base damage and additional damage.
+
+Here is my replit link : https://replit.com/@mrabelantony/GAME-1
+
+
+#ScreenShots
+
+
